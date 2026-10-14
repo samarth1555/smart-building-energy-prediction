@@ -1,4 +1,4 @@
-# Smart-building energy forecasting experiments
+# Smart-building energy forecasting
 
 This project evaluates XGBoost, Random Forest, LSTM, Transformer, and a hybrid CNN-LSTM-Attention model using the UCI Appliances Energy Prediction dataset (ID 374).
 
